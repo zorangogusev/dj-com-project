@@ -5,4 +5,4 @@
 
 ## Demo link
 
-    https://zorangogusev.github.io/dj-com-project/
+    [https://zorangogusev.github.io/dj-com-project](https://zorangogusev.github.io/dj-com-project/)
